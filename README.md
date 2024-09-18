@@ -30,7 +30,7 @@ The dashboard presents key findings such as:
 
 ## Files and Resources
 
-- [Presentation PDF](https://drive.google.com/drive/u/0/folders/1sReBxwUikCum9UItdbNni3oca5jkeIGh)
+- [Presentation PDF]([https://drive.google.com/drive/u/0/folders/1sReBxwUikCum9UItdbNni3oca5jkeIGh](https://drive.google.com/file/d/1b1wiOGkvkW20qRcNSCmY-o-Y_qqGCjRU/view?usp=sharing))
 - [Report PDF]([https://drive.google.com/drive/u/0/folders/1sReBxwUikCum9UItdbNni3oca5jkeIGh](https://drive.google.com/file/d/1zj1glFRTcmhgrY71PKfYCN7Oe1dYTXIK/view?usp=sharing))
 - [Project Folder on Google Drive](https://drive.google.com/drive/folders/1XuJvwWx2dHc8vPEcNj69LvxAT8j8lfdt?usp=sharing)
 
